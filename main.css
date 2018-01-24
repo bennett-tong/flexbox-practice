@@ -59,7 +59,7 @@ aside i.fa {
      padding: 5px 10px 0px;
  }
  .music-head img {
-     flex: 1 1 auto;
+     flex: 0 0 auto;
      height: 260px;
  }
  li {
