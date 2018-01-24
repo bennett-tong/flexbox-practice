@@ -139,8 +139,8 @@ aside i.fa {
   }
 
 
-  @media screen and (max-width: 769px)
-  or  (-webkit-min-device-pixel-ratio: 2){
+  @media screen and (max-width: 769px),
+  screen and  (-webkit-min-device-pixel-ratio: 2){
     /*write your css in this code block*/
     aside {
       display:none;
