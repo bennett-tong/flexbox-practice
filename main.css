@@ -151,6 +151,7 @@ aside i.fa {
     .music-head{
       flex-direction:column;
       align-items: center;
+      margin: 10px 0 10px;
     }
     .music-head img{
       width: 260px;
@@ -158,6 +159,10 @@ aside i.fa {
     .catty-music div:nth-child(1) p:first-child{
       font-size: 0.9em;
       margin: 10px 0 10px ;
+    }
+    .catty-music{
+      align-items:center;
+      padding: 0px;
     }
     .fa-random{
       display:none;
